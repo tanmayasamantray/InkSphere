@@ -10,8 +10,11 @@
     --background-color : #F4F4F4;
 }
 
-body{
-    font-family: "Poppins";
-    font-size: 12px;
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
     color: var(--primary-one);
+    background-color: var(--background-color);
+    margin: 0;
+    padding: 0;
 }

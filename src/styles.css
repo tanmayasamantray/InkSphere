@@ -4,7 +4,7 @@
 
 :root{
     --primary-one : #333333;
-    --primary-two : #FFFFFF;
+    --primary-two : #d8d8d8;
     --accent-one : #228B22;
     --accent-two : #FFD700;
     --background-color : #F4F4F4;
@@ -17,4 +17,15 @@ body {
     background-color: var(--background-color);
     margin: 0;
     padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+.site-logo{
+    padding: 5px 20px;
+    border-radius: 25px;
+    background-color: var(--primary-two);
+    text-decoration: none;
+    color: var(--primary-one);
 }

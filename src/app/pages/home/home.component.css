@@ -1,0 +1,15 @@
+.featured-section{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 120px;
+
+    background-color: var(--primary-one);
+}
+
+.latest-section{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 120px;
+
+    background-color: var(--background-color);
+}

@@ -1,0 +1,13 @@
+.card{
+    border: none;
+}
+button{
+    background-color: var(--primary-one);
+    border: none;
+    color: #f0ffff;
+}
+button:hover{
+    background-color: var(--primary-two);
+    border: none;
+    color: var(--primary-one);
+}

@@ -1,0 +1,16 @@
+.bg-theme{
+    background-color:  var(--primary-one);
+}
+.bg-secondary-theme{
+    background-color: var(--primary-two);
+}
+
+.btn-hm{
+    height: 50px;
+    width: 150px;
+    border: none;
+    font-size: 15px;
+    font-weight: 400;
+    color: #f0f8ff;
+    background-color: var(--primary-one);
+}
